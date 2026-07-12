@@ -1,10 +1,6 @@
 # ✈️ Jet Engine Design in SolidWorks
 
-<p align="center">
-  <img src="screenshots/jet-engine.png" alt="Jet Engine Design" width="850">
-</p>
 
----
 
 ## Overview
 
